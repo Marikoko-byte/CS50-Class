@@ -1,2 +1,2 @@
 # CS50-Class
-I am putting my CS50 homework into this folder
+This is where I am putting CS50 homework
